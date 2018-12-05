@@ -1,0 +1,5 @@
+package com.noQ.entity;
+
+public class UserRegisterEntity {
+
+}
